@@ -1,4 +1,3 @@
-# California-Housing-Prices-Predictions
 # House Price Prediction in California
 
 ## Overview
